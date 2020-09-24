@@ -1,0 +1,13 @@
+h1{text-align: center; color: black; font-family: Century Gothic; font-size: 40 px}
+h2{text-align: center; color: black; font-family: Century Gothic; font-size: 35px}
+h3{text-align: center; color: black; font-family: Century Gothic; font-size: 25px}
+h4{text-align: center; color: black; font-family: Century Gothic; font-size: 20px}
+table, th, td { border: 1px solid black; border-collapse:collapse; font-family: Century Gothic; font-size: 18px; color: black; background:#F9E79F}
+th, td { padding:10px} 
+table{margin:0 auto}
+.uni{width: 220px; height: 130px; float: left}
+.facu {width: 220px; height: 130px; float: right}
+.html {width: 250px; height: 250px; display:block; margin:auto}
+#anterior_siguiente { text-align:center; margin-bottom: 1em;font-family: Century Gothic; font-size: 16pt; font-weight: 30;color: white; }
+#anterior_siguiente {  clear: both; }
+body { background:#2E86C1}
